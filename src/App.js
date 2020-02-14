@@ -12,7 +12,7 @@ function App() {
           alt="logo"
         />
         <br />
-        <p>Os caras são doidos</p>
+        <p>Os caras são legais</p>
         <a
           className="App-link"
           href="http://www.mangobits.com"
